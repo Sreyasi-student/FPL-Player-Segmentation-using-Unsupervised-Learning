@@ -5,7 +5,7 @@ groups using PCA, K-Means, and hierarchical clustering.
 
 ## Contents
 
-- `sports_clustering_analysis.ipynb` — the full analysis notebook
+- `FPL_Clustering.ipynb` — the full analysis notebook
 - `fpl_data.csv` — the dataset (see source below)
 
 ## Data Source
@@ -61,7 +61,7 @@ scipy
 
 ## Running
 
-Open `sports_clustering_analysis.ipynb` in Jupyter (or JupyterLab / VS Code) with
+Open `FPL_Clustering.ipynb` in Jupyter (or JupyterLab / VS Code) with
 `fpl_data.csv` in the same directory, and run all cells top to bottom.
 
 ## Notes on Choosing k
